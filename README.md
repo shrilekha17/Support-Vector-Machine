@@ -1,5 +1,7 @@
 # Support-Vector-Machine
 
+*[Comparison of a random hypothesis and Linear SV](https://github.com/shrilekha17/Support-Vector-Machine/blob/master/Comparison%20of%20random%20separator%20and%20%20Linear%20Support%20Vector%20Machine.ipynb)
+
 
 In this problem, you are to investigate the bias and variance of the optimal hyperplane in a simple setting. The input is (x1, x2) ∈ [−1, 1]2 and the target function is f(x) = sign(x2).
 The hypothesis set H contains horizontal linear separators h(x) = sign(x2 −a), where −1 ≤ a ≤ 1. Consider two algorithms:
