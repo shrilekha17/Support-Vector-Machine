@@ -1,6 +1,6 @@
 # Support-Vector-Machine
 
-*[Comparison of a random hypothesis and Linear SV](https://github.com/shrilekha17/Support-Vector-Machine/blob/master/Comparison%20of%20random%20separator%20and%20%20Linear%20Support%20Vector%20Machine.ipynb)
+1) [Comparison of a random hypothesis and Linear SV](https://github.com/shrilekha17/Support-Vector-Machine/blob/master/Comparison%20of%20random%20separator%20and%20%20Linear%20Support%20Vector%20Machine.ipynb)
 
 
 In this problem, you are to investigate the bias and variance of the optimal hyperplane in a simple setting. The input is (x1, x2) ∈ [−1, 1]2 and the target function is f(x) = sign(x2).
@@ -12,3 +12,6 @@ SVM: Pick the maximum margin separator from H.
 (c) Repeat part (a) for a million data sets to obtain one million Random and SVM hypotheses.
 (d) Give a histogram of the values of aRandom resulting from the random algorithm and another histogram of aSVM resulting from the optimal sep- arators. Compare the two histograms and explain the differences.
 (e) Estimate the bias and var for the two algorithms. Explain your findings, in particular which algorithm is better for this toy problem.
+
+
+2) [Higher order polynomial Support Vector Machine](https://github.com/shrilekha17/Support-Vector-Machine/blob/master/Higher%20order%20polynomial%20SVM.ipynb)
